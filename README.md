@@ -1,3 +1,3 @@
 # Elm tutorial
 
-Frontend is now ~~~cool~~~
+Frontend is now cool
